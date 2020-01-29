@@ -29,8 +29,6 @@ class HighPosts extends Component {
         comments[element.postId].push(element);
       });
 
-      console.log(comments);
-
       commentsGroup.push(["Element", "Comments", { role: "style" }]);
 
       comments.forEach(element => {

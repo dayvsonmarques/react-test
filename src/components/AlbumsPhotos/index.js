@@ -13,7 +13,6 @@ class AlbumsPhotos extends Component {
         const photos = res.data;
         let albumsPhotos = [];
         let totalPhotos = res.data.length;
-        console.log(totalPhotos);
 
         photos.forEach(element => {
           if(typeof albumsPhotos[element.albumId] === 'undefined'){
