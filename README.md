@@ -1,6 +1,7 @@
 # React Test
 
 This project is just a react test.
+Hosting URL: https://react-graphs-test.firebaseapp.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
