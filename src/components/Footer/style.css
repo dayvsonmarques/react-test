@@ -1,0 +1,14 @@
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 40px;    
+    background-color: var(--color-ultra-dark);
+    color: var(--color-ultra-light);
+    
+}
+
+.title-footer{
+    font-size: 12px;
+    padding: 10px;
+}
